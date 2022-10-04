@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152140960426",
+    "project_id": "loginandlogout-b9300",
+    "storage_bucket": "loginandlogout-b9300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152140960426:android:f3b362099f7a56597876d3",
+        "android_client_info": {
+          "package_name": "com.example.googleloginandlogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152140960426-kur5jmql57crrm1sgntivp3vuh3rv98t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleloginandlogout",
+            "certificate_hash": "1cc62360508b31456c6cca49cb641561d2a0bf93"
+          }
+        },
+        {
+          "client_id": "152140960426-s5b2hr68dq1benq94gvbhrno7vfdtc8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUDnJj0pMaaEnltgKnMJyg2iJOzOpBIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152140960426-s5b2hr68dq1benq94gvbhrno7vfdtc8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
